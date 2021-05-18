@@ -1,0 +1,7 @@
+Package: BSgenome.Odioica.local.OSKA2016v1.9
+Version: 1.0.0
+Depends: R (>= 3.5.0), BSgenome (>= 1.58.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: 9cfbe6a6826021919048678865a35c81
+NeedsCompilation: no
