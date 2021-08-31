@@ -1,3 +1,11 @@
+Package: BSgenome.Odioica.local.AOM.5
+Version: 1.0.0
+Depends: R (>= 3.5.0), BSgenome (>= 1.58.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: af001457738aafa5482fc1b4bfc5df87
+NeedsCompilation: no
+
 Package: BSgenome.Odioica.local.Bar2.p4
 Version: 1.0.0
 Depends: R (>= 3.5.0), BSgenome (>= 1.58.0)
