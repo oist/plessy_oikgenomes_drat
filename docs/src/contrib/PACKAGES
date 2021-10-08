@@ -34,6 +34,12 @@ License: CC0
 MD5sum: a0228c48436f3d4ce8cde2e9f3feb543
 NeedsCompilation: no
 
+Package: BreakpointsData
+Version: 3.4.2
+License: CC0
+MD5sum: 270595d8bf29942c83eb8ed8988a2582
+NeedsCompilation: no
+
 Package: BSgenome.Odioica.local.AOM.5
 Version: 1.0.0
 Depends: R (>= 3.5.0), BSgenome (>= 1.58.0)
