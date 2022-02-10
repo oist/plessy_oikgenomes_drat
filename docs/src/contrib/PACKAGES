@@ -131,3 +131,67 @@ Imports: BSgenome
 License: Artistic-2.0
 MD5sum: 9cfbe6a6826021919048678865a35c81
 NeedsCompilation: no
+
+Package: BSgenome.Oidioi.Aniseed.OSKA2016
+Version: 1.0.0
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: 6ebef51ed8abd2b47d6f2a22ed1b9eaf
+NeedsCompilation: no
+
+Package: BSgenome.Oidioi.genoscope.OdB3
+Version: 1.0.0
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: e9bfafe692f16ec8ef11b344214c0625
+NeedsCompilation: no
+
+Package: BSgenome.Oidioi.OIST.AOM.5.5f
+Version: 1.0.1
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: 9cc94c021edc830286db68511881e69a
+NeedsCompilation: no
+
+Package: BSgenome.Oidioi.OIST.Bar2.p4
+Version: 1.0.1
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: a8fe1a18cb3bc0324eb94d9107f6e8d8
+NeedsCompilation: no
+
+Package: BSgenome.Oidioi.OIST.I28
+Version: 1.0.0
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: 7960f2787185b1e1b05c35481ea87023
+NeedsCompilation: no
+
+Package: BSgenome.Oidioi.OIST.KUM.M3.7f
+Version: 1.0.1
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: 7d57b98d5cf1c946cdb4005a1eadbfcc
+NeedsCompilation: no
+
+Package: BSgenome.Oidioi.OIST.OKI2018.I69
+Version: 1.0.1
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: 2e66f8173e20176ddc24ac10cc906093
+NeedsCompilation: no
+
+Package: BSgenome.Oidioi.OIST.OSKA2016v1.9
+Version: 1.0.0
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: 609d3c5be710ff12d06c6a1da7464904
+NeedsCompilation: no
