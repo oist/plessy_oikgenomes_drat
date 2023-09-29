@@ -17,6 +17,12 @@ MD5sum: 2668cb8d1a44a8188a90bbf79162145a
 NeedsCompilation: no
 
 Package: BreakpointsData
+Version: 3.10.1
+License: CC0
+MD5sum: 2381a39567f540c4594a595516e00b4f
+NeedsCompilation: no
+
+Package: BreakpointsData
 Version: 3.2.0
 License: CC0
 MD5sum: afb5ce94bc201fd33f5278edbf98eab5
