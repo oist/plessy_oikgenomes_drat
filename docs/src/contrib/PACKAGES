@@ -204,6 +204,14 @@ License: Artistic-2.0
 MD5sum: 7d57b98d5cf1c946cdb4005a1eadbfcc
 NeedsCompilation: no
 
+Package: BSgenome.Oidioi.OIST.O10.1.0
+Version: 1.0.0
+Depends: R (>= 3.5.0), BSgenome (>= 1.66.3)
+Imports: BSgenome
+License: Artistic-2.0
+MD5sum: 7067df0940001f8becceff894f86ed23
+NeedsCompilation: no
+
 Package: BSgenome.Oidioi.OIST.OKI2018.I69
 Version: 1.0.1
 Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
